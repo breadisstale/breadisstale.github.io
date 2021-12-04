@@ -220,7 +220,6 @@ a {
   cursor: pointer;
   outline: none;
   -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
 
@@ -241,7 +240,6 @@ a {
   outline: none;
   cursor: pointer;
   -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
 
@@ -285,7 +283,6 @@ a {
   color: #4F5665;
   margin-right: 40px;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -308,7 +305,6 @@ a {
   margin-right: 30px;
   cursor: pointer;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -329,7 +325,6 @@ a {
   overflow-x: hidden;
   padding-top: 60px;
   -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
   transition: 0.5s;
 }
 
@@ -357,7 +352,6 @@ a {
   color: #4F5665;
   cursor: pointer;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -386,7 +380,6 @@ a {
   display: block;
   margin-bottom: 10px;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -403,7 +396,6 @@ a {
   border: none;
   padding: 0;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -446,7 +438,6 @@ a {
 .sidenav-icon span {
   top: 50%;
   -webkit-transform: scale(1) translate(0px, -50%);
-      -ms-transform: scale(1) translate(0px, -50%);
           transform: scale(1) translate(0px, -50%);
 }
 
@@ -641,7 +632,6 @@ a {
 
 .pricing {
   background: -webkit-gradient(linear, left bottom, left top, color-stop(18%, white), color-stop(46%, #f6f6f6));
-  background: -o-linear-gradient(bottom, white 18%, #f6f6f6 46%);
   background: linear-gradient(0deg, white 18%, #f6f6f6 46%);
   padding-top: 50px;
   margin-bottom: 100px;
@@ -678,7 +668,6 @@ a {
   border-radius: 10px;
   padding: 70px 70px 50px 70px;
   -webkit-transition: border 0.2s linear;
-  -o-transition: border 0.2s linear;
   transition: border 0.2s linear;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -828,7 +817,6 @@ a {
   border-radius: 10px;
   padding: 30px;
   -webkit-transition: border 0.2s linear;
-  -o-transition: border 0.2s linear;
   transition: border 0.2s linear;
 }
 
@@ -935,7 +923,6 @@ a {
 
 ._left {
   -webkit-transform: rotate(180deg);
-      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
@@ -964,7 +951,6 @@ a {
   height: 40px;
   fill: #F53855;
   -webkit-transition: fill 0.2s linear;
-  -o-transition: fill 0.2s linear;
   transition: fill 0.2s linear;
 }
 
@@ -1058,7 +1044,6 @@ a {
   -webkit-box-shadow: 0px 20px 35px 0px rgba(0, 0, 0, 0.35);
           box-shadow: 0px 20px 35px 0px rgba(0, 0, 0, 0.35);
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
 }
 
@@ -1075,7 +1060,6 @@ a {
   height: 20px;
   fill: #F53838;
   -webkit-transition: fill 0.2s linear;
-  -o-transition: fill 0.2s linear;
   transition: fill 0.2s linear;
 }
 
@@ -1101,7 +1085,6 @@ a {
   font-weight: 500;
   opacity: 1;
   -webkit-transition: all 0.1s linear;
-  -o-transition: all 0.1s linear;
   transition: all 0.1s linear;
 }
 
@@ -1117,7 +1100,6 @@ a {
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 50%;
   max-height: 100%;
@@ -1173,7 +1155,6 @@ a {
   border: none;
   cursor: pointer;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
 }
 
@@ -1274,7 +1255,6 @@ span.modal_psw {
   padding: 14px 20px;
   background-color: #F53838;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
   font-family: "Rubik", sans-serif;
 }
@@ -1290,7 +1270,6 @@ span.modal_psw {
   font-weight: 700;
   font-size: 20px;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
 }
 

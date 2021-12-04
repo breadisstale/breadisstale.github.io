@@ -195,7 +195,6 @@ body {
   text-transform: uppercase;
   text-align: center;
   -webkit-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
 
@@ -251,7 +250,6 @@ text {
   text-decoration: none;
   margin-right: 30px;
   -webkit-transition: color 0.1s linear;
-  -o-transition: color 0.1s linear;
   transition: color 0.1s linear;
 }
 
@@ -269,7 +267,6 @@ text {
   width: 25px;
   margin-left: 30px;
   -webkit-transition: fill 0.1s linear;
-  -o-transition: fill 0.1s linear;
   transition: fill 0.1s linear;
 }
 
@@ -290,7 +287,6 @@ text {
   background-color: rgba(0, 0, 0, 0.9);
   overflow-x: hidden;
   -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
   transition: 0.5s;
 }
 
@@ -309,7 +305,6 @@ text {
   color: #818181;
   display: block;
   -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
   transition: 0.3s;
 }
 
@@ -330,7 +325,6 @@ text {
   font-size: 60px;
   color: #818181;
   -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
   transition: 0.3s;
 }
 
@@ -339,7 +333,6 @@ text {
   padding: 10px 15px;
   margin-left: 20px;
   -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
   transition: 0.2s;
 }
 
@@ -348,7 +341,6 @@ text {
   margin-right: 0;
   fill: #818181;
   -webkit-transition: 0.3s;
-  -o-transition: 0.3s;
   transition: 0.3s;
 }
 
@@ -423,7 +415,6 @@ text {
   width: 25%;
   text-align: center;
   -webkit-transition: all 0.1s linear;
-  -o-transition: all 0.1s linear;
   transition: all 0.1s linear;
 }
 
@@ -437,7 +428,6 @@ text {
   width: 50px;
   height: 50px;
   -webkit-transition: fill 0.1s linear;
-  -o-transition: fill 0.1s linear;
   transition: fill 0.1s linear;
 }
 
@@ -466,7 +456,6 @@ text {
   margin: 30px auto;
   border-bottom: 3px solid #f1eee9;
   -webkit-transition: border-color 0.1s linear;
-  -o-transition: border-color 0.1s linear;
   transition: border-color 0.1s linear;
 }
 
@@ -519,7 +508,6 @@ text {
 
 .purchase {
   background: -webkit-gradient(linear, left top, right top, color-stop(35%, #221c1a), color-stop(91%, #4d3327));
-  background: -o-linear-gradient(left, #221c1a 35%, #4d3327 91%);
   background: linear-gradient(90deg, #221c1a 35%, #4d3327 91%);
   margin-bottom: 80px;
 }
@@ -601,7 +589,6 @@ text {
   color: #8c8c8c;
   text-decoration: none;
   -webkit-transition: all 0.1s linear;
-  -o-transition: all 0.1s linear;
   transition: all 0.1s linear;
 }
 
@@ -697,7 +684,6 @@ text {
   left: 0;
   z-index: 2;
   -webkit-transition: opacity 0.2s linear;
-  -o-transition: opacity 0.2s linear;
   transition: opacity 0.2s linear;
 }
 
@@ -706,7 +692,6 @@ text {
   height: 25px;
   fill: #fff;
   -webkit-transition: fill 0.1s linear;
-  -o-transition: fill 0.1s linear;
   transition: fill 0.1s linear;
   margin: 104.75px 10px;
 }
@@ -721,7 +706,6 @@ text {
   width: 370px;
   overflow: hidden;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
 }
 
@@ -733,7 +717,6 @@ text {
   padding-top: 30px;
   margin-bottom: 15px;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -741,7 +724,6 @@ text {
   font-size: 14px;
   padding-bottom: 30px;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -803,7 +785,6 @@ text {
   -o-object-fit: cover;
      object-fit: cover;
   -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
 }
 
@@ -877,7 +858,6 @@ text {
 
 .achievements {
   background: -webkit-gradient(linear, left top, right top, color-stop(35%, #221c1a), color-stop(91%, #4d3327));
-  background: -o-linear-gradient(left, #221c1a 35%, #4d3327 91%);
   background: linear-gradient(90deg, #221c1a 35%, #4d3327 91%);
   margin-bottom: 80px;
 }
@@ -1001,14 +981,12 @@ text {
   opacity: 0;
   overflow: hidden;
   -webkit-transition: opacity 0.1s linear;
-  -o-transition: opacity 0.1s linear;
   transition: opacity 0.1s linear;
 }
 
 .posts-description {
   background-color: #f8f8f8;
   -webkit-transition: background-color 0.1s linear;
-  -o-transition: background-color 0.1s linear;
   transition: background-color 0.1s linear;
 }
 
@@ -1021,7 +999,6 @@ text {
   padding-left: 30px;
   margin-bottom: 20px;
   -webkit-transition: color 0.1s linear;
-  -o-transition: color 0.1s linear;
   transition: color 0.1s linear;
 }
 
@@ -1031,7 +1008,6 @@ text {
   padding-left: 30px;
   margin-bottom: 30px;
   -webkit-transition: color 0.1s linear;
-  -o-transition: color 0.1s linear;
   transition: color 0.1s linear;
 }
 
@@ -1065,7 +1041,6 @@ text {
   border-right: 5px solid transparent;
   border-top: 10px solid #a48d72;
   -webkit-transform: rotate(-90deg);
-      -ms-transform: rotate(-90deg);
           transform: rotate(-90deg);
 }
 
@@ -1096,7 +1071,6 @@ text {
   height: 50px;
   fill: #d4d4d4;
   -webkit-transition: fill 0.1s linear;
-  -o-transition: fill 0.1s linear;
   transition: fill 0.1s linear;
 }
 
@@ -1106,7 +1080,6 @@ text {
 
 .right-arrow {
   -webkit-transform: rotate(180deg);
-      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
@@ -1178,7 +1151,6 @@ text {
   text-decoration: none;
   color: #4c4c4c;
   -webkit-transition: color 0.1s linear;
-  -o-transition: color 0.1s linear;
   transition: color 0.1s linear;
 }
 
@@ -1248,10 +1220,8 @@ text {
           box-shadow: inset 0 0 0 4px #575252;
   opacity: 0;
   -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
   transition: 0.2s;
   -webkit-transform: translateY(25px);
-      -ms-transform: translateY(25px);
           transform: translateY(25px);
 }
 
@@ -1282,7 +1252,6 @@ text {
   visibility: visible;
   opacity: 1;
   -webkit-transform: translateY(0);
-      -ms-transform: translateY(0);
           transform: translateY(0);
 }
 
@@ -1293,7 +1262,6 @@ text {
   stroke: orange;
   stroke-width: 4px;
   -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
   transition: 0.2s;
 }
 
@@ -1314,7 +1282,6 @@ text {
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 50%;
   max-height: 100%;
@@ -1408,7 +1375,6 @@ form {
   height: 35px;
   margin: 20px 10px;
   -webkit-transition: fill 0.2s linear;
-  -o-transition: fill 0.2s linear;
   transition: fill 0.2s linear;
 }
 
@@ -1531,7 +1497,6 @@ form {
     height: 10%;
     width: 100%;
     -webkit-transition: all 0.3s ease 0s;
-    -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     background-color: #fff;
   }
@@ -1552,7 +1517,6 @@ form {
   .menu-burger span {
     top: 50%;
     -webkit-transform: scale(1) translate(0px, -50%);
-        -ms-transform: scale(1) translate(0px, -50%);
             transform: scale(1) translate(0px, -50%);
   }
 

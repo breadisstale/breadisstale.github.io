@@ -185,7 +185,6 @@ body {
   cursor: pointer;
   text-align: center;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
 }
 
@@ -306,14 +305,12 @@ body {
   text-align: center;
   -webkit-transition: -webkit-transform 0.2s linear;
   transition: -webkit-transform 0.2s linear;
-  -o-transition: transform 0.2s linear;
   transition: transform 0.2s linear;
   transition: transform 0.2s linear, -webkit-transform 0.2s linear;
 }
 
 .select.is-active .select__icon {
   -webkit-transform: rotate(180deg);
-      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
@@ -335,7 +332,6 @@ body {
   padding: 8px;
   cursor: pointer;
   -webkit-transition: background-color 0.1s linear;
-  -o-transition: background-color 0.1s linear;
   transition: background-color 0.1s linear;
 }
 
@@ -389,7 +385,6 @@ body {
 
 ._left {
   -webkit-transform: rotate(180deg);
-      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
@@ -424,7 +419,6 @@ body {
   height: 50px;
   fill: #05386B;
   -webkit-transition: fill 0.2s linear;
-  -o-transition: fill 0.2s linear;
   transition: fill 0.2s linear;
 }
 
@@ -496,7 +490,6 @@ body {
   background-color: #379683;
   text-decoration: none;
   -webkit-transition: background-color 0.2s linear;
-  -o-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear;
   padding: 10px 20px;
 }
@@ -559,7 +552,6 @@ body {
   margin-bottom: 10px;
   -webkit-transition: -webkit-text-decoration 0.1s linear;
   transition: -webkit-text-decoration 0.1s linear;
-  -o-transition: text-decoration 0.1s linear;
   transition: text-decoration 0.1s linear;
   transition: text-decoration 0.1s linear, -webkit-text-decoration 0.1s linear;
 }
@@ -593,7 +585,6 @@ body {
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 50%;
   max-height: 100%;
@@ -623,7 +614,6 @@ body {
   font-size: 20px;
   cursor: pointer;
   -webkit-transition: color 0.2s linear;
-  -o-transition: color 0.2s linear;
   transition: color 0.2s linear;
 }
 
@@ -863,7 +853,6 @@ body {
     border-radius: 50%;
     background-color: #05386B;
     -webkit-transition: background-color 0.2s linear;
-    -o-transition: background-color 0.2s linear;
     transition: background-color 0.2s linear;
   }
 
