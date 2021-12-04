@@ -399,10 +399,6 @@ text {
 
 /*Services*/
 
-.services {
-  margin-bottom: 80px;
-}
-
 .services_elements {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -461,47 +457,6 @@ text {
 
 .services_item:hover .services_empty {
   border-color: #c7b299;
-}
-
-/*Presentation*/
-
-.presentation_text_elements {
-  text-align: center;
-}
-
-.presentation_title {
-  margin-bottom: 30px;
-}
-
-.presentation_text {
-  padding: 0 100px;
-  line-height: 1.75;
-}
-
-.presentation_photo {
-  margin-top: 140px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
-  position: relative;
-  z-index: 1;
-}
-
-.presentation_img--down {
-  width: 50%;
-}
-
-.presentation_img--center {
-  width: 60%;
-  height: auto;
-  position: absolute;
-  z-index: 2;
-  left: 50%;
-  -webkit-transform: translate3d(-50%, 0%, 0);
-          transform: translate3d(-50%, 0%, 0);
 }
 
 /*Purchase*/
@@ -588,8 +543,11 @@ text {
   font-size: 14px;
   color: #8c8c8c;
   text-decoration: none;
-  -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
+  -webkit-transition: all 0.1s linear;
+  -moz-transition: all 0.1s linear;
+  -ms-transition: all 0.1s linear;
+  -o-transition: all 0.1s linear;
 }
 
 .works-tab:hover {
@@ -1564,12 +1522,6 @@ form {
 }
 
 @media (max-width: 650px) {
-  /* presentation */
-
-  .presentation_text {
-    padding: 0;
-  }
-
   /* works */
 
   .works-text {
